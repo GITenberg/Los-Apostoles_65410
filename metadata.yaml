@@ -1,0 +1,42 @@
+_repo: Los-Apostoles_65410
+_version: 0.0.1
+alternative_title: Les apôtres. Spanish
+contributor:
+  translator:
+    agent_name: Verneuil, Enrique Leopoldo de
+    aliases:
+    - Verneuill, Enrique Leopoldo de
+    - De Verneuil, Enrique Leopoldo
+    - Verneuil, Enrique L. de (Enrique Leopoldo)
+    - Verneuil, E. L de (Enrique Leopoldo)
+    gutenberg_agent_id: '53323'
+    url: http://www.gutenberg.org/2009/agents/53323
+creator:
+  author:
+    agent_name: Renan, Ernest
+    aliases:
+    - Renan, Joseph Ernest
+    - Renan, Ernestos
+    - Renán, Ernesto
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '4527'
+    url: http://www.gutenberg.org/2009/agents/4527
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Ernest_Renan
+    - https://en.wikipedia.org/wiki/Ernest_Renan
+description: ''
+gutenberg_issued: '2021-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65410'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Apostles'
+- GITenberg
+title: Los Apóstoles
+url: http://www.gutenberg.org/ebooks/65410
