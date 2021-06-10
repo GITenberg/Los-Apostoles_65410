@@ -1,5 +1,5 @@
 _repo: Los-Apostoles_65410
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Les apôtres. Spanish
 contributor:
   translator:
@@ -11,6 +11,9 @@ contributor:
     - Verneuil, E. L de (Enrique Leopoldo)
     gutenberg_agent_id: '53323'
     url: http://www.gutenberg.org/2009/agents/53323
+covers:
+- cover_type: archival
+  image_path: 65410-h/images/cover.jpg
 creator:
   author:
     agent_name: Renan, Ernest
@@ -26,6 +29,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Ernest_Renan
     - https://en.wikipedia.org/wiki/Ernest_Renan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65410#Los-Apostoles
 gutenberg_issued: '2021-05-22'
 gutenberg_type: Text
 identifiers:
